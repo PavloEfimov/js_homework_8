@@ -1,0 +1,10 @@
+#result {
+    width: 150px;
+    height: 30px;
+    line-height: 30px;
+    border: 1px solid black;
+    background-color: grey;
+    color: white;
+    padding: 10px;
+    text-align: center;
+}
